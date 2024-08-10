@@ -5,11 +5,11 @@
 | Milly Family     |    3?   |   0  |   0   |   3   |
 | Gladstone Family |    4    |   0  |   0   |   4   |
 | Jonathan Family  |    1?   |   0  |   0   |   1   |
-| Muriel Family    |    0    |   1  |   1   |   3   |
+| Muriel Family    |    0    |   1  |   1   |   2   |
 | Norman Family    |    3    |   0  |   0   |   3   |
 | Audrey Family    |    1    |   1  |   0   |   2   |
 | Daisy  Family    |    3    |   0  |   0   |   3   |
-| Leila Family     |    3    |   0  |   0   |   3   |
+| Leila Family     |    0    |   0  |   2   |   2   |
 | Sanya Family     |    3    |   1  |   0   |   4   |
 | Tamique Family   |    4?   |   0  |   0   |   4   |
 | Sheree Family    |    1    |   0  |   2   |   3   |
