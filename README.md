@@ -11,11 +11,11 @@
 | Daisy  Family    |    3    |   0  |   0   |   3   |
 | Leila Family     |    0    |   0  |   2   |   2   |
 | Sanya Family     |    3    |   1  |   0   |   4   |
-| Tamique Family   |    4?   |   0  |   0   |   4   |
+| Tamique Family   |    2    |   0  |   0   |   2   |
 | Sheree Family    |    1    |   0  |   2   |   3   |
 | Shanna Family    |    0    |   0  |   1   |   1   |
 | Odette Family    |    2?   |   0  |   0   |   2   |
 | Karen Family     |    0    |   1  |   0   |   1   |
 | Paulette Family  |    0    |   1  |   0   |   1   |
 | Guest Family     |    3?   |   3? |   3?  |   9?  |
-| **Total**        |    33   |   9  |   9   |  50   |
+| **Total**        |    28   |   9  |   9   |  46   |
